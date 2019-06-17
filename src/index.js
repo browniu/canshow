@@ -15,7 +15,7 @@ export default class ExampleComponent extends Component {
 
     return (
       <div className={styles.test}>
-        Example Component: {text}
+      xxi
       </div>
     )
   }
