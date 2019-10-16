@@ -1,4 +1,4 @@
-# canshow ([demo](https://browniu.com/canshow/))
+# canshow ([demo](https://browniu.github.io/canshow/))
 
 > canvas can show in react
 
