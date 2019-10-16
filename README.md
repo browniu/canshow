@@ -1,8 +1,13 @@
-# canshow ([demo](https://browniu.com/canshow/))
+# canshow
 
-> canvas can show in react
+> 粒子动效组件
 
 [![NPM](https://img.shields.io/npm/v/canshow.svg)](https://www.npmjs.com/package/canshow) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
+
+## [Demo](https://browniu.com/canshow/)
+
+![demo](static/canshow.gif)
 
 ## Install
 
@@ -29,9 +34,7 @@ class Example extends Component {
 }
 ```
 
-## Demo
 
-[click here](https://browniu.com/canshow/)
 
 ## Props
 
